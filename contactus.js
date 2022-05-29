@@ -1,0 +1,1 @@
+confirm("Turn on GPS");

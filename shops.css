@@ -1,0 +1,12 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+.head h1{
+    text-align: center;
+    color: black;
+}
+.head p{
+    text-align: center;
+    color: grey;
+}
